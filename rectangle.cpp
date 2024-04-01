@@ -13,6 +13,6 @@ int main() {
 	}
 	cout << "Периметр: " << (oneSd + twoSd) * 2 << endl;
 	cout << "Площадь: " << oneSd * twoSd << endl;
-	cout << "Длина каждой диагонали:" << pow(pow(oneSd, 2) + pow(twoSd, 2), 0.5) << endl;
+	cout << "!!!! Длина каждой диагонали:" << pow(pow(oneSd, 2) + pow(twoSd, 2), 0.5) << endl;
 	return 0;
 }
